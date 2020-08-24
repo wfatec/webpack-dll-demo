@@ -1,12 +1,3 @@
-<!--
- * @Author: your name
- * @Date: 2020-08-24 19:17:31
- * @LastEditTime: 2020-08-24 19:28:29
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: /webpack-dll-demo/README.md
--->
-
 ## Webpack DllPlugin 配置
 
 > 使用 `DllPlugin` 和 `DllReferencePlugin` 实现动态链接库 dll，提高开发效率，原文 - [使用 Webpack 的 DllPlugin 提升项目构建速度](https://juejin.im/post/6844903777296728072)
